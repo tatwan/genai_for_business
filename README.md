@@ -1,1 +1,1 @@
-# genai_for_business
+# Generative AI for Business
